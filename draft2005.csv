@@ -1,0 +1,256 @@
+Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Tkl,Int,Sk,College/Univ,
+1,1,SFO,Alex Smith\SmitAl03,QB,21,2016,0,1,9,72,31,139,2490,4044,27338,154,89,459,2011,11,3,-7,0,9,,,Utah,College Stats
+1,2,MIA,Ronnie Brown\BrowRo05,RB,23,2014,0,1,5,41,36,132,4,12,63,2,0,1281,5391,38,246,1966,2,13,,,Auburn,College Stats
+1,3,CLE,Braylon Edwards\EdwaBr00,WR,22,2012,0,1,5,41,28,112,0,1,0,0,0,4,11,0,359,5522,40,24,,,Michigan,College Stats
+1,4,CHI,Cedric Benson\BensCe00,RB,22,2012,0,0,5,34,9,96,,,,,,1600,6017,32,120,833,1,6,,,Texas,College Stats
+1,5,TAM,Cadillac Williams\WillCa02,RB,23,2011,0,0,4,26,25,81,,,,,,1055,4038,21,148,1002,4,6,,,Auburn,College Stats
+1,6,TEN,Adam Jones\JonePa20,DB,22,2016,1,1,5,46,13,128,0,0,0,0,0,2,8,0,2,31,0,400,15,3.0,West Virginia,College Stats
+1,7,MIN,Troy Williamson\WillTr01,WR,22,2009,0,0,2,8,8,49,,,,,,6,58,0,87,1131,4,9,,,South Carolina,College Stats
+1,8,ARI,Antrel Rolle\RollAn20,DB,22,2015,0,3,8,53,17,155,,,,,,1,9,0,1,9,0,705,26,4.0,Miami (FL),College Stats
+1,9,WAS,Carlos Rogers\RogeCa20,DB,24,2014,0,1,7,49,24,133,,,,,,,,,,,,412,17,1.0,Auburn,College Stats
+1,10,DET,Mike Williams\WillMi03,WR,21,2011,0,0,2,12,4,56,,,,,,1,0,0,127,1526,5,8,,,USC,College Stats
+1,11,DAL,DeMarcus Ware\WareDe99,LB,23,2016,4,9,11,99,88,177,,,,,,,,,,,,505,3,138.5,Troy,College Stats
+1,12,SDG,Shawne Merriman\MerrSh99,LB,21,2012,1,3,3,39,36,75,,,,,,,,,,,,196,1,45.5,Maryland,
+1,13,NOR,Jammal Brown\BrowJa55,T,24,2012,1,2,6,50,39,85,,,,,,,,,,,,2,,,Oklahoma,College Stats
+1,14,CAR,Thomas Davis\DaviTh20,LB,22,2016,1,1,8,59,59,147,,,,,,,,,,,,688,13,25.5,Georgia,College Stats
+1,15,KAN,Derrick Johnson\JohnDe25,LB,22,2016,1,4,10,76,76,167,,,,,,,,,,,,890,14,27.5,Texas,
+1,16,HOU,Travis Johnson\JohnTr20,DT,23,2010,0,0,2,16,14,76,,,,,,,,,,,,103,1,3.0,Florida St.,
+1,17,CIN,David Pollack\PollDa20,LB,23,2006,0,0,0,3,3,16,,,,,,,,,,,,22,,4.5,Georgia,College Stats
+1,18,MIN,Erasmus James\JameEr20,DE,22,2008,0,0,1,6,6,28,,,,,,,,,,,,30,,5.0,Wisconsin,College Stats
+1,19,STL,Alex Barron\BarrAl20,T,23,2010,0,0,5,28,28,87,,,,,,,,,,,,3,,,Florida St.,College Stats
+1,20,DAL,Marcus Spears\SpeaMa21,DE,22,2013,0,0,5,35,34,124,,,,,,,,,,,,143,,10.0,LSU,College Stats
+1,21,JAX,Matt Jones\JoneMa00,WR,22,2008,0,0,1,22,22,54,2,3,12,0,0,14,36,0,166,2153,15,4,,,Arkansas,
+1,22,BAL,Mark Clayton\ClayMa01,WR,23,2011,0,0,3,27,26,83,2,5,32,1,0,26,118,2,260,3448,14,19,,,Oklahoma,College Stats
+1,23,OAK,Fabian Washington\WashFa20,DB,22,2010,0,0,5,21,10,81,,,,,,,,,,,,204,6,,Nebraska,College Stats
+1,24,GNB,Aaron Rodgers\RodgAa00,QB,21,2016,2,5,9,112,112,140,2979,4580,36180,289,72,489,2489,24,1,-1,0,6,,,California,College Stats
+1,25,WAS,Jason Campbell\CampJa00,QB,23,2014,0,0,5,47,32,90,1519,2518,16771,87,60,240,1204,6,,,,1,,,Auburn,College Stats
+1,26,SEA,Chris Spencer\SpenCh21,C,23,2014,0,0,6,37,28,137,,,,,,,,,,,,4,,,Mississippi,
+1,27,ATL,Roddy White\WhitRo00,WR,23,2015,1,4,10,88,88,171,,,,,,9,19,0,808,10863,63,25,,,Ala-Birmingham,College Stats
+1,28,SDG,Luis Castillo\CastLu20,DE,22,2011,0,0,6,32,32,82,,,,,,,,,,,,151,2,19.0,Northwestern,
+1,29,IND,Marlin Jackson\JackMa22,DB,22,2009,0,0,1,13,13,56,,,,,,,,,,,,221,4,0.5,Michigan,College Stats
+1,30,PIT,Heath Miller\MillHe00,TE,22,2015,0,2,11,46,46,168,,,,,,2,8,0,592,6569,45,34,,,Virginia,College Stats
+1,31,PHI,Mike Patterson\PattMi20,DT,22,2014,0,0,7,50,46,147,,,,,,,,,,,,288,1,16.5,USC,College Stats
+1,32,NWE,Logan Mankins\MankLo20,G,23,2015,1,7,11,102,94,161,,,,,,,,,1,-9,0,5,,,Fresno St.,
+2,33,SFO,David Baas\BaasDa20,G,24,2013,0,0,6,36,21,122,,,,,,,,,,,,5,,,Michigan,College Stats
+2,34,CLE,Brodney Pool\PoolBr20,DB,21,2011,0,0,4,27,21,100,,,,,,,,,,,,292,13,5.5,Oklahoma,College Stats
+2,35,PHI,Reggie Brown\BrowRe01,WR,24,2009,0,0,3,20,20,72,,,,,,11,68,1,177,2574,17,8,,,Georgia,College Stats
+2,36,TAM,Barrett Ruud\RuudBa20,LB,22,2012,0,0,5,41,36,116,,,,,,,,,,,,481,7,6.0,Nebraska,College Stats
+2,37,DET,Shaun Cody\CodySh20,DT,22,2012,0,0,4,27,5,112,,,,,,,,,,,,120,1,3.0,USC,College Stats
+2,38,OAK,Stanford Routt\RoutSt20,DB,22,2012,0,0,3,21,18,119,,,,,,,,,,,,225,12,2.0,Houston,College Stats
+2,39,CHI,Mark Bradley\BradMa00,WR,23,2009,0,0,1,10,4,57,2,2,63,1,0,2,20,0,92,1283,9,4,,,Oklahoma,College Stats
+2,40,NOR,Josh Bullocks\BullJo20,DB,22,2010,0,0,3,21,19,90,,,,,,,,,,,,235,6,1.0,Nebraska,College Stats
+2,41,TEN,Michael Roos\RoosMi20,T,22,2014,1,1,9,62,62,148,,,,,,,,,1,-7,0,8,,,East. Washington,
+2,42,DAL,Kevin Burnett\BurnKe20,LB,22,2013,0,0,4,40,5,136,,,,,,,,,,,,491,5,20.0,Tennessee,College Stats
+2,43,NYG,Corey Webster\WebsCo20,DB,23,2013,0,0,6,33,33,121,,,,,,,,,,,,330,20,2.0,LSU,College Stats
+2,44,ARI,J.J. Arrington\ArriJ.00,RB,22,2008,0,0,0,11,11,58,0,1,0,0,0,183,654,3,91,693,2,6,,,California,College Stats
+2,45,SEA,Lofa Tatupu\TatuLo99,LB,22,2010,1,3,5,49,49,84,,,,,,,,,,,,407,10,8.5,USC,College Stats
+2,46,MIA,Matt Roth\RothMa20,DE,22,2011,0,0,4,27,13,96,,,,,,,,,,,,216,,23.5,Iowa,
+2,47,NYJ,Mike Nugent\nugenmik01,K,23,2016,0,0,0,19,8,153,,,,,,,,,0,0,0,14,,,Ohio St.,College Stats
+2,48,CIN,Odell Thurman\ThurOd20,LB,22,2005,0,0,1,7,7,16,,,,,,,,,,,,64,5,1.5,Georgia,College Stats
+2,49,MIN,Marcus Johnson\JohnMa20,G,23,2009,0,0,1,10,10,53,,,,,,,,,,,,,,,Mississippi,
+2,50,STL,Ronald Bartell\BartRo20,DB,23,2012,0,0,3,25,23,96,,,,,,,,,,,,310,8,2.0,Howard,
+2,51,GNB,Nick Collins\CollNi20,DB,22,2011,0,3,6,43,43,95,,,,,,,,,,,,340,21,1.0,Bethune-Cookman,
+2,52,JAX,Khalif Barnes\BarnKh20,T,23,2015,0,0,8,51,31,151,,,,,,,,,3,9,1,7,,,Washington,College Stats
+2,53,BAL,Dan Cody\CodyDa20,DE,23,2006,0,0,0,0,0,2,,,,,,,,,,,,,,,Oklahoma,
+2,54,CAR,Eric Shelton\ShelEr00,RB,22,2006,0,0,0,0,0,9,,,,,,8,23,0,1,6,0,1,,,Louisville,College Stats
+2,55,BUF,Roscoe Parrish\ParrRo00,WR,23,2012,0,0,0,14,14,90,1,1,3,0,0,14,71,1,134,1502,7,7,,,Miami (FL),College Stats
+2,56,DEN,Darrent Williams\WillDa21,DB,23,2006,0,0,1,10,10,27,,,,,,,,,,,,124,6,1.0,Oklahoma St.,College Stats
+2,57,NYJ,Justin Miller\MillJu99,DB,21,2012,0,1,0,14,13,46,,,,,,,,,,,,81,,,Clemson,College Stats
+2,58,GNB,Terrence Murphy\MurpTe00,WR,22,2005,0,0,0,0,0,3,,,,,,,,,5,36,0,,,,Texas A&M,College Stats
+2,59,ATL,Jonathan Babineaux\BabiJo20,DE,23,2016,0,0,8,52,52,183,,,,,,,,,,,,290,4,27.0,Iowa,College Stats
+2,60,IND,Kelvin Hayden\HaydKe20,DB,22,2012,0,0,4,24,21,101,,,,,,,,,,,,281,12,,Illinois,College Stats
+2,61,SDG,Vincent Jackson\JackVi00,WR,22,2016,0,3,8,75,49,155,,,,,,15,161,0,540,9080,57,21,,,Northern Colorado,
+2,62,PIT,Bryant McFadden\McFaBr20,DB,23,2011,0,0,3,25,21,96,,,,,,1,-2,0,,,,266,9,4.0,Florida St.,College Stats
+2,63,PHI,Matt McCoy\McCoMa20,LB,22,2011,0,0,1,9,6,65,,,,,,,,,,,,107,,2.0,San Diego St.,
+2,64,BAL,Adam Terry\TerrAd20,T,23,2010,0,0,0,10,10,50,,,,,,,,,,,,1,,,Syracuse,
+3,65,SFO,Frank Gore\GoreFr00,RB,22,2016,0,5,11,81,77,178,,,,,,2936,12931,74,411,3401,16,12,,,Miami (FL),College Stats
+3,66,STL,O.J. Atogwe\AtogO.20,DB,24,2011,0,0,6,34,31,101,,,,,,,,,,,,374,25,5.5,Stanford,College Stats
+3,67,CLE,Charlie Frye\FryeCh00,QB,24,2009,0,0,1,8,7,26,419,676,4154,17,29,72,347,4,,,,1,,,Akron,College Stats
+3,68,TEN,Courtney Roby\RobyCo00,WR,22,2014,0,0,0,3,2,92,,,,,,3,19,0,26,343,1,46,,,Indiana,College Stats
+3,69,OAK,Andrew Walter\WaltAn00,QB,23,2008,0,0,1,1,1,15,174,333,1919,3,16,19,49,0,,,,4,,,Arizona St.,College Stats
+3,70,MIA,Channing Crowder\CrowCh20,LB,21,2010,0,0,6,31,31,82,,,,,,,,,,,,343,1,2.5,Florida,College Stats
+3,71,TAM,Alex Smith\SmitAl02,TE,23,2015,0,0,3,11,10,124,,,,,,,,,163,1473,13,12,,,Stanford,College Stats
+3,72,DET,Stanley Wilson\WilsSt20,DB,22,2007,0,0,0,5,5,32,,,,,,,,,,,,63,,,Stanford,College Stats
+3,73,HOU,Vernand Morency\MoreVe00,RB,25,2007,0,0,0,8,2,39,,,,,,171,726,4,57,404,0,8,,,Oklahoma St.,College Stats
+3,74,NYG,Justin Tuck\TuckJu20,DE,22,2015,1,2,7,64,58,147,,,,,,,,,,,,353,3,66.5,Notre Dame,
+3,75,ARI,Eric Green\GreeEr20,DB,23,2008,0,0,3,11,11,51,,,,,,,,,,,,150,2,,Virginia Tech,College Stats
+3,76,DEN,Karl Paymah\PaymKa20,DB,22,2010,0,0,0,6,6,74,,,,,,,,,,,,115,3,,Washington St.,College Stats
+3,77,PHI,Ryan Moats\MoatRy00,RB,22,2009,0,0,0,7,2,38,,,,,,204,831,8,20,127,1,13,,,Louisiana Tech,College Stats
+3,78,OAK,Kirk Morrison\MorrKi20,LB,23,2012,0,0,6,39,33,112,,,,,,,,,,,,568,7,6.0,San Diego St.,College Stats
+3,79,CAR,Evan Mathis\MathEv20,G,23,2016,1,2,6,44,6,134,,,,,,,,,,,,3,,,Alabama,
+3,80,MIN,Dustin Fox\FoxxDu20,DB,22,2008,0,0,0,0,,12,,,,,,,,,,,,8,,,Ohio St.,College Stats
+3,81,STL,Richie Incognito\IncoRi20,G,22,2016,0,2,9,45,14,132,,,,,,,,,,,,6,,,Oregon,
+3,82,NOR,Alfred Fincher\FincAl20,LB,22,2008,0,0,0,3,2,38,,,,,,,,,,,,18,,,Connecticut,College Stats
+3,83,CIN,Chris Henry\HenrCh00,WR,22,2009,0,0,0,16,16,55,,,,,,,,,119,1826,21,3,,,West Virginia,College Stats
+3,84,NWE,Ellis Hobbs\HobbEl20,DB,22,2010,0,0,3,28,26,79,,,,,,,,,,,,182,10,2.5,Iowa St.,
+3,85,SEA,David Greene,QB,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
+3,86,BUF,Kevin Everett\EverKe00,TE,23,2007,0,0,0,0,0,17,,,,,,,,,2,4,0,1,,,Miami (FL),College Stats
+3,87,JAX,Scott Starks\StarSc20,DB,22,2009,0,0,0,4,4,54,,,,,,,,,,,,55,2,,Wisconsin,College Stats
+3,88,NYJ,Sione Pouha\PouhSi20,DT,26,2012,0,0,4,50,50,106,,,,,,,,,,,,192,,4.5,Utah,College Stats
+3,89,CAR,Atiyyah Ellison\ElliAt00,DT,24,2009,0,0,0,0,,15,,,,,,,,,,,,,,,Missouri,
+3,90,ATL,Jordan Beck\BeckJo20,LB,22,2007,0,0,0,2,1,26,,,,,,,,,,,,18,,,Cal Poly-San Luis Obispo,
+3,91,TAM,Chris Colmer,T,,,0,0,0,,,,,,,,,,,,,,,,,,North Carolina St.,
+3,92,IND,Vincent Burns,DE,,,0,0,0,,,,,,,,,,,,,,,,,,Kentucky,College Stats
+3,93,PIT,Trai Essex\EsseTr20,T,22,2012,0,0,1,17,17,76,,,,,,,,,,,,,,,Northwestern,College Stats
+3,94,SFO,Adam Snyder\SnydAd20,T,23,2014,0,0,4,35,31,141,,,,,,,,,0,0,0,8,,,Oregon,
+3,95,ARI,Darryl Blackstock\BlacDa20,LB,22,2011,0,0,0,6,4,74,,,,,,,,,,,,62,,4.0,Virginia,College Stats
+3,96,TEN,Brandon Jones\JoneBr02,WR,22,2009,0,0,2,12,12,59,,,,,,6,76,0,113,1398,9,2,,,Oklahoma,College Stats
+3,97,DEN,Domonique Foxworth\FoxwDo20,DB,22,2011,0,0,2,17,6,78,,,,,,,,,,,,227,8,,Maryland,College Stats
+3,98,SEA,LeRoy Hill\HillLe20,LB,23,2012,0,0,7,39,39,97,,,,,,,,,,,,378,,20.0,Clemson,College Stats
+3,99,KAN,Dustin Colquitt\ColqDu20,P,23,2016,0,1,0,20,20,188,1,1,6,0,0,3,-3,0,,,,6,,,Tennessee,College Stats
+3,100,NWE,Nick Kaczur\KaczNi20,T,26,2009,0,0,5,36,36,68,,,,,,,,,,,,,,,Toledo,College Stats
+3,101,DEN,Maurice Clarett,RB,,,0,0,0,,,,,,,,,,,,,,,,,,Ohio St.,
+4,102,PHI,Sean Considine\ConsSe20,DB,23,2012,0,0,2,14,9,99,,,,,,1,3,0,,,,194,4,2.5,Iowa,College Stats
+4,103,CLE,Antonio Perkins\PerkAn20,DB,23,2006,0,0,0,0,0,6,,,,,,,,,,,,2,,,Oklahoma,College Stats
+4,104,MIA,Travis Daniels\DaniTr20,DB,23,2012,0,0,1,14,11,107,,,,,,,,,,,,145,6,,LSU,College Stats
+4,105,SEA,Ray Willis\WillRa22,T,23,2009,0,0,1,12,12,44,,,,,,,,,,,,1,,,Florida St.,
+4,106,CHI,Kyle Orton\OrtoKy00,QB,22,2014,0,0,5,41,10,87,1613,2712,18037,101,69,126,296,4,,,,7,,,Purdue,College Stats
+4,107,TAM,Dan Buenning\BuenDa20,G,23,2008,0,0,1,10,9,36,,,,,,,,,,,,,,,Wisconsin,
+4,108,TEN,Vincent Fuller\FullVi20,DB,23,2011,0,0,0,8,8,76,,,,,,,,,,,,134,6,2.0,Virginia Tech,College Stats
+4,109,DAL,Marion Barber\BarbMa01,RB,22,2011,0,1,3,40,38,99,0,1,0,0,0,1156,4780,53,179,1330,6,15,,,Minnesota,College Stats
+4,110,NYG,Brandon Jacobs\JacoBr00,RB,23,2013,0,0,3,36,36,109,,,,,,1141,5094,60,82,743,4,21,,,Southern Illinois,
+4,111,ARI,Elton Brown\BrowEl20,G,23,2008,0,0,1,8,8,34,,,,,,,,,,,,,,,Virginia,College Stats
+4,112,MIN,Ciatrick Fason\FasoCi00,RB,22,2006,0,0,0,1,1,18,,,,,,50,161,5,3,19,0,4,,,Florida,College Stats
+4,113,TEN,David Stewart\StewDa21,T,23,2013,0,0,8,47,47,116,,,,,,,,,,,,8,,,Mississippi St.,
+4,114,HOU,Jerome Mathis\MathJe00,WR,22,2007,1,1,0,4,4,17,,,,,,,,,6,80,1,,,,Hampton,
+4,115,GNB,Marviel Underwood\UndeMa20,DB,23,2005,0,0,0,1,1,16,,,,,,,,,,,,27,,,San Diego St.,College Stats
+4,116,KAN,Craphonso Thorpe\ThorCr00,WR,22,2007,0,0,0,1,,5,,,,,,,,,12,70,1,,,,Florida St.,College Stats
+4,117,STL,Jerome Carter\CartJe20,DB,22,2007,0,0,0,3,3,33,,,,,,,,,,,,50,2,,Florida St.,College Stats
+4,118,NOR,Chase Lyman,WR,,,0,0,0,,,,,,,,,,,,,,,,,,California,College Stats
+4,119,CIN,Eric Ghiaciuc\GhiaEr20,C,24,2008,0,0,3,18,18,48,,,,,,,,,,,,3,,,Central Michigan,
+4,120,WAS,Manuel White,RB,,,0,0,0,,,,,,,,,,,,,,,,,,UCLA,College Stats
+4,121,CAR,Stefan Lefors,QB,,,0,0,0,,,,,,,,,,,,,,,,,,Louisville,College Stats
+4,122,BUF,Duke Preston\PresDu20,C,23,2008,0,0,2,11,11,59,,,,,,,,,,,,,,,Illinois,
+4,123,NYJ,Kerry Rhodes\RhodKe20,DB,23,2012,0,0,7,48,35,118,,,,,,,,,,,,488,23,13.0,Louisville,College Stats
+4,124,BAL,Jason Brown\BrowJa23,C,22,2011,0,0,6,31,18,100,,,,,,,,,,,,3,,,North Carolina,College Stats
+4,125,GNB,Brady Poppinga\PoppBr20,LB,26,2012,0,0,4,26,20,100,,,,,,,,,,,,225,2,5.0,BYU,College Stats
+4,126,PHI,Todd Herremans\HerrTo20,T,22,2015,0,0,8,54,54,135,,,,,,,,,2,3,2,5,,,Saginaw Valley St.,
+4,127,JAX,Alvin Pearman\PearAl00,RB,23,2009,0,0,0,5,5,38,,,,,,58,238,2,36,276,1,10,,,Virginia,College Stats
+4,128,ATL,Chauncey Davis\DaviCh22,DE,22,2011,0,0,1,20,19,102,,,,,,,,,,,,148,2,11.0,Florida St.,College Stats
+4,129,IND,Dylan Gandy\GandDy20,G,23,2013,0,0,1,19,13,120,,,,,,,,,,,,1,,,Texas Tech,
+4,130,SDG,Darren Sproles\SproDa00,RB,22,2016,0,2,0,58,26,166,,,,,,655,3233,21,520,4556,30,6,,,Kansas St.,College Stats
+4,131,PIT,Fred Gibson,WR,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
+4,132,DAL,Chris Canty\CantCh21,DE,22,2015,0,0,8,46,19,148,,,,,,,,,,,,234,,22.5,Virginia,
+4,133,NWE,James Sanders\SandJa21,DB,21,2012,0,0,3,25,22,114,,,,,,,,,,,,250,8,1.0,Fresno St.,College Stats
+4,134,STL,Claude Terrell\TerrCl20,G,23,2007,0,0,1,6,6,20,,,,,,,,,,,,,,,New Mexico,
+4,135,IND,Matt Giordano\GiorMa20,DB,22,2013,0,0,1,16,5,116,,,,,,1,-5,0,,,,176,11,1.0,California,College Stats
+4,136,TEN,Roydell Williams\WillRo05,WR,24,2010,0,0,1,10,9,56,,,,,,2,-17,0,92,1248,6,8,,,Tulane,College Stats
+5,137,SFO,Ronald Fields\FielRo20,DT,24,2011,0,0,1,12,5,87,,,,,,,,,,,,90,,1.0,Mississippi St.,
+5,138,KAN,Boomer Grigsby\GrigBo20,LB,23,2008,0,0,0,2,2,45,,,,,,,,,2,14,0,28,,,Illinois St.,
+5,139,CLE,David McMillan\McMiDa20,DE,24,2007,0,0,0,2,2,29,,,,,,,,,,,,5,,,Kansas,College Stats
+5,140,CHI,Airese Currie\CurrAi00,WR,22,2006,0,0,0,0,0,1,,,,,,,,,,,,,,,Clemson,College Stats
+5,141,TAM,Donte Nicholson\NichDo20,DB,23,2008,0,0,0,1,1,16,,,,,,,,,,,,11,,,Oklahoma,College Stats
+5,142,TEN,Damien Nash\NashDa00,RB,23,2006,0,0,0,1,0,6,,,,,,24,98,0,7,55,0,,,,Missouri,College Stats
+5,143,GNB,Junius Coston\CostJu20,G,21,2007,0,0,0,5,5,16,,,,,,,,,,,,,,,North Carolina A&T,
+5,144,STL,Jerome Collins\CollJe00,TE,23,2005,0,0,0,0,0,3,,,,,,,,,,,,,,,Notre Dame,College Stats
+5,145,DET,Dan Orlovsky\OrloDa00,QB,22,2015,0,0,0,7,5,27,298,512,3132,15,13,13,34,0,,,,1,,,Connecticut,College Stats
+5,146,PHI,Trent Cole\ColeTr20,DE,22,2016,0,2,9,69,67,174,,,,,,,,,,,,464,1,89.5,Cincinnati,College Stats
+5,147,KAN,Alphonso Hodge,DB,,,0,0,0,,,,,,,,,,,,,,,,,,Miami (OH),
+5,148,IND,Jonathan Welsh\WelsJo20,DE,23,2005,0,0,0,0,0,6,,,,,,,,,,,,2,,,Wisconsin,
+5,149,CAR,Adam Seward\SewaAd20,LB,23,2009,0,0,0,4,4,43,,,,,,,,,,,,40,,,UNLV,College Stats
+5,150,TEN,Daniel Loper\LopeDa20,T,23,2010,0,0,0,6,3,58,,,,,,,,,,,,1,,,Texas Tech,
+5,151,HOU,Drew Hodgdon\HodgDr20,C,23,2007,0,0,0,3,3,14,,,,,,,,,,,,,,,Arizona St.,
+5,152,NOR,Adrian McPherson,QB,,,0,0,0,,,,,,,,,,,,,,,,,,Florida St.,
+5,153,CIN,Adam Kieft,T,,,0,0,0,,,,,,,,,,,,,,,,,,Central Michigan,
+5,154,WAS,Robert McCune\McCuRo20,LB,26,2008,0,0,0,0,0,8,,,,,,,,,,,,8,,,Louisville,College Stats
+5,155,TAM,Larry Brackins,WR,,,0,0,0,,,,,,,,,,,,,,,,,,Pearl River CC,
+5,156,BUF,Eric King\KingEr20,DB,23,2010,0,0,0,4,1,63,,,,,,,,,,,,69,,,Wake Forest,College Stats
+5,157,JAX,Gerald Sensabaugh\SensGe20,DB,22,2012,0,0,5,30,9,112,,,,,,,,,,,,327,14,2.0,North Carolina,College Stats
+5,158,BAL,Justin Green\GreeJu00,FB,23,2007,0,0,0,0,0,39,,,,,,5,4,0,13,65,0,22,,,Montana,
+5,159,SEA,Jeb Huckeba,LB,,,0,0,0,,,,,,,,,,,,,,,,,,Arkansas,
+5,160,ATL,Michael Boley\BoleMi20,LB,23,2013,0,0,8,43,22,131,,,,,,,,,,,,540,8,9.5,Southern Miss,College Stats
+5,161,NYJ,Andre Maddox,DB,,,0,0,0,,,,,,,,,,,,,,,,,,North Carolina St.,
+5,162,MIA,Anthony Alabi\AlabAn20,T,24,2007,0,0,0,1,1,16,,,,,,,,,,,,,,,TCU,
+5,163,ATL,Frank Omiyale\OmiyFr20,T,22,2012,0,0,2,17,0,75,,,,,,,,,,,,1,,,Tennessee Tech,
+5,164,SDG,Wesley Britt\BritWe20,T,23,2008,0,0,0,3,,16,,,,,,,,,,,,,,,Alabama,
+5,165,IND,Robert Hunt,C,,,0,0,0,,,,,,,,,,,,,,,,,,North Dakota St.,
+5,166,PIT,Rian Wallace\WallRi20,LB,23,2006,0,0,0,2,2,16,,,,,,,,,,,,6,1,,Temple,College Stats
+5,167,GNB,Michael Hawkins\HawkMi21,DB,22,2006,0,0,0,1,1,18,,,,,,,,,,,,12,,,Oklahoma,
+5,168,ARI,Lance Mitchell\MitcLa20,LB,23,2005,0,0,0,1,1,12,,,,,,,,,,,,7,,,Oklahoma,College Stats
+5,169,CAR,Geoff Hangartner\HangGe20,C,23,2013,0,0,5,37,27,118,,,,,,,,,0,0,0,1,,,Texas A&M,
+5,170,NWE,Ryan Claridge,LB,,,0,0,0,,,,,,,,,,,,,,,,,,UNLV,
+5,171,CAR,Ben Emanuel\EmanBe20,DB,23,2005,0,0,0,3,,11,,,,,,,,,,,,34,1,0.5,UCLA,College Stats
+5,172,PHI,Scott Young\YounSc20,G,24,2008,0,0,0,1,1,14,,,,,,,,,,,,,,,BYU,
+5,173,IND,Tyjuan Hagler\HaglTy20,LB,23,2010,0,0,0,12,12,50,,,,,,,,,,,,125,1,2.0,Cincinnati,College Stats
+5,174,SFO,Rasheed Marshall\MarsRa00,WR,24,2005,0,0,0,0,0,12,,,,,,1,-7,0,1,-1,0,,,,West Virginia,College Stats
+6,175,OAK,Anttaj Hawthorne\HawtAn20,DT,23,2006,0,0,0,1,1,18,,,,,,,,,,,,10,,,Wisconsin,College Stats
+6,176,CLE,Nick Speegle\SpeeNi20,LB,23,2006,0,0,0,1,1,16,,,,,,,,,,,,9,,,New Mexico,College Stats
+6,177,SDG,Wes Sims\SimsWe20,G,24,2005,0,0,0,0,0,1,,,,,,,,,,,,,,,Oklahoma,
+6,178,TAM,Anthony Bryant\BryaAn20,DT,23,2010,0,0,0,2,0,15,,,,,,,,,,,,7,,,Alabama,
+6,179,TEN,Bo Scaife\ScaiBo00,TE,24,2010,0,0,4,20,20,90,,,,,,1,13,1,251,2383,12,2,,,Texas,College Stats
+6,180,GNB,Mike Montgomery\MontMi20,DT,22,2010,0,0,1,8,8,58,,,,,,,,,,,,85,,5.0,Texas A&M,College Stats
+6,181,CHI,Chris Harris\HarrCh20,DB,23,2012,0,0,5,41,22,101,,,,,,,,,,,,365,16,1.0,La-Monroe,College Stats
+6,182,NYJ,Cedric Houston\HousCe00,RB,23,2006,0,0,0,5,5,20,,,,,,194,676,7,15,109,0,,,,Tennessee,College Stats
+6,183,WAS,Jared Newberry,LB,,,0,0,0,,,,,,,,,,,,,,,,,,Stanford,College Stats
+6,184,DET,Bill Swancutt\SwanBi20,DE,23,2005,0,0,0,0,0,8,,,,,,,,,,,,,,,Oregon St.,College Stats
+6,185,JAX,Chad Owens\OwenCh00,WR,23,2007,0,0,0,0,0,6,,,,,,,,,0,0,0,2,,,Hawaii,College Stats
+6,186,NYG,Eric Moore\MoorEr21,DE,24,2011,0,0,0,5,1,35,,,,,,,,,,,,31,,4.0,Florida St.,College Stats
+6,187,KAN,Will Svitek\SvitWi20,T,23,2014,0,0,1,14,2,79,,,,,,,,,0,0,0,1,,,Stanford,College Stats
+6,188,HOU,C.C. Brown\BrowC.20,DB,22,2011,0,0,3,19,14,83,,,,,,,,,,,,293,3,1.0,La-Lafayette,
+6,189,CAR,Jovan Haye\HayeJo20,DE,23,2011,0,0,3,25,0,73,,,,,,,,,,,,128,,6.5,Vanderbilt,College Stats
+6,190,CIN,Tab Perry\PerrTa00,WR,23,2007,0,0,0,1,1,20,,,,,,6,22,1,10,109,1,11,,,UCLA,College Stats
+6,191,MIN,C.J. Mosley\MoslC.20,DT,22,2015,0,0,2,22,2,140,,,,,,,,,,,,140,,14.0,Missouri,
+6,192,STL,Dante Ridgeway\RidgDa00,WR,21,2005,0,0,0,0,,8,,,,,,,,,2,26,0,,,,Ball St.,College Stats
+6,193,NOR,Jason Jefferson\JeffJa21,DT,23,2008,0,0,0,3,,34,,,,,,,,,,,,18,,,Wisconsin,
+6,194,JAX,Pat Thomas\ThomPa20,LB,22,2008,0,0,1,5,2,31,,,,,,,,,,,,52,,0.5,North Carolina St.,
+6,195,GNB,Craig Bragg,WR,,,0,0,0,,,,,,,,,,,,,,,,,,UCLA,College Stats
+6,196,SEA,Tony Jackson,TE,,,0,0,0,,,,,,,,,,,,,,,,,,Iowa,College Stats
+6,197,BUF,Justin Geisinger\GeisJu20,G,23,2008,0,0,0,0,,6,,,,,,,,,,,,,,,Vanderbilt,
+6,198,NYJ,Joel Dreessen\DreeJo00,TE,23,2013,0,0,4,16,0,120,,,,,,,,,158,1767,19,36,,,Colorado St.,College Stats
+6,199,KAN,Khari Long\LongKh20,DE,23,2005,0,0,0,0,0,1,,,,,,,,,,,,,,,Baylor,College Stats
+6,200,DEN,Chris Myers\MyerCh20,G,24,2014,0,2,8,59,7,153,,,,,,,,,,,,7,,,Miami (FL),
+6,201,ATL,DeAndra Cobb\CobbDe00,RB,24,2005,0,0,0,0,0,3,,,,,,,,,,,,,,,Michigan St.,College Stats
+6,202,IND,Dave Rayner\raynedav01,K,22,2011,0,0,0,3,0,59,,,,,,,,,,,,10,,,Michigan St.,College Stats
+6,203,CLE,Andrew Hoffman,DT,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia,
+6,204,PIT,Chris Kemoeatu\KemoCh20,G,22,2011,0,0,4,27,27,75,,,,,,,,,,,,2,,,Utah,
+6,205,SFO,Derrick Johnson\JohnDe24,DB,23,2006,0,0,0,2,2,19,,,,,,,,,,,,36,,1.0,Washington,College Stats
+6,206,DET,Jonathan Goddard\GoddJo20,DE,24,2005,0,0,0,0,,1,,,,,,,,,,,,1,,,Marshall,College Stats
+6,207,CAR,Joe Berger\BergJo20,T,23,2016,0,0,4,26,,127,,,,,,,,,,,,9,,,Michigan Tech,
+6,208,DAL,Justin Beriault,DB,,,0,0,0,,,,,,,,,,,,,,,,,,Ball St.,College Stats
+6,209,DAL,Rob Petitti\PetiRo20,T,23,2010,0,0,1,8,7,27,,,,,,,,,,,,,,,Pittsburgh,
+6,210,STL,Reggie Hodges\HodgRe20,P,23,2012,0,0,0,5,0,64,,,,,,2,68,0,,,,1,,,Ball St.,College Stats
+6,211,PHI,Calvin Armstrong,T,,,0,0,0,,,,,,,,,,,,,,,,,,Washington St.,
+6,212,OAK,Ryan Riddle\RiddRy20,DE,24,2006,0,0,0,1,1,17,,,,,,,,,,,,7,,,California,
+6,213,BAL,Derek Anderson\AndeDe00,QB,22,2016,0,1,3,21,,73,865,1596,10396,60,60,99,229,5,,,,2,,,Oregon St.,College Stats
+6,214,OAK,Pete McMahon,T,,,0,0,0,,,,,,,,,,,,,,,,,,Iowa,
+7,215,SFO,Daven Holly\HollDa22,DB,23,2007,0,0,1,10,,32,,,,,,,,,,,,99,5,,Cincinnati,College Stats
+7,216,MIA,Kevin Vickerson\VickKe99,DT,22,2014,0,0,3,22,,86,,,,,,,,,,,,120,1,6.5,Michigan St.,
+7,217,CLE,Jon Dunn,T,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia Tech,
+7,218,TEN,Reynaldo Hill\HillRe21,DB,23,2008,0,0,2,11,11,48,,,,,,,,,,,,93,6,,Florida,College Stats
+7,219,MIN,Adrian Ward,DB,,,0,0,0,,,,,,,,,,,,,,,,,,Texas-El Paso,College Stats
+7,220,CHI,Rod Wilson\WilsRo20,DB,23,2010,0,0,0,3,3,51,,,,,,,,,,,,39,,,South Carolina,College Stats
+7,221,TAM,Rick Razzano,RB,,,0,0,0,,,,,,,,,,,,,,,,,,Mississippi,College Stats
+7,222,WAS,Nehemiah Broughton\BrouNe00,FB,22,2006,0,0,0,0,0,6,,,,,,1,3,0,,,,2,,,The Citadel,
+7,223,SFO,Marcus Maxwell\MaxwMa00,WR,22,2007,0,0,0,0,0,9,,,,,,,,,1,5,0,3,,,Oregon,College Stats
+7,224,DAL,Jay Ratliff\RatlJa20,DE,24,2015,1,4,6,56,51,122,,,,,,,,,,,,192,,35.0,Auburn,College Stats
+7,225,TAM,Paris Warren\WarrPa00,WR,23,2006,0,0,0,0,0,8,,,,,,,,,5,63,0,,,,Utah,College Stats
+7,226,ARI,LeRon McCoy\McCoLe00,WR,23,2005,0,0,0,1,1,10,,,,,,,,,18,191,1,1,,,Indiana (PA),
+7,227,HOU,Kenneth Pettway\PettKe20,DE,22,2008,0,0,0,3,,25,,,,,,,,,,,,15,,3.0,Grambling St.,
+7,228,PIT,Shaun Nua,DE,,,0,0,0,,,,,,,,,,,,,,,,,,BYU,
+7,229,KAN,James Kilian,QB,,,0,0,0,,,,,,,,,,,,,,,,,,Tulsa,College Stats
+7,230,NWE,Matt Cassel\CassMa00,QB,23,2016,0,1,5,46,18,102,1517,2574,17013,101,77,264,1010,5,1,-4,0,8,,,USC,College Stats
+7,231,TAM,Hamza Abdullah\AbduHa20,DB,22,2011,0,0,0,5,,48,,,,,,,,,,,,67,,,Washington St.,College Stats
+7,232,NOR,Jimmy Verdon\VerdJi20,DT,23,2005,0,0,0,0,0,4,,,,,,,,,,,,,,,Arizona St.,College Stats
+7,233,CIN,Jonathan Fanene\FaneJo20,DE,23,2011,0,0,1,13,13,71,,,,,,,,,,,,66,1,13.5,Utah,College Stats
+7,234,BAL,Mike Smith\SmitMi22,LB,24,2006,0,0,0,1,1,14,,,,,,,,,0,0,0,5,,,Texas Tech,College Stats
+7,235,SEA,Cornelius Wortham\WortCo20,LB,23,2005,0,0,0,1,1,8,,,,,,,,,,,,2,,,Alabama,College Stats
+7,236,BUF,Lionel Gates\GateLi00,RB,23,2007,0,0,0,0,,1,,,,,,,,,,,,,,,Louisville,College Stats
+7,237,JAX,Chris Roberson\RobeCh20,DB,22,2008,0,0,0,0,0,7,,,,,,,,,,,,2,,,East. Michigan,College Stats
+7,238,KAN,Jeremy Parquet,T,,,0,0,0,,,,,,,,,,,,,,,,,,Southern Miss,
+7,239,DEN,Paul Ernster\ErnsPa20,K,23,2008,0,0,0,2,2,22,,,,,,,,,,,,3,,,Northern Arizona,
+7,240,NYJ,Harry Williams\WillHa20,WR,23,2007,0,0,0,0,0,3,,,,,,,,,,,,2,,,Tuskegee,
+7,241,ATL,Darrell Shropshire\ShroDa20,DT,22,2006,0,0,0,2,2,23,,,,,,,,,,,,14,,3.0,South Carolina,
+7,242,SDG,Scott Mruczkowski\MrucSc20,C,23,2011,0,0,1,16,16,83,,,,,,,,,,,,2,,,Bowling Green,
+7,243,IND,Anthony Davis,RB,,,0,0,0,,,,,,,,,,,,,,,,,,Wisconsin,College Stats
+7,244,PIT,Noah Herron\HerrNo00,RB,23,2006,0,0,0,3,0,23,,,,,,85,273,3,29,211,2,11,,,Northwestern,College Stats
+7,245,GNB,Kurt Campbell,DB,,,0,0,0,,,,,,,,,,,,,,,,,,Albany (NY),
+7,246,GNB,Will Whitticker\WhitWi25,G,23,2005,0,0,1,6,6,15,,,,,,,,,,,,,,,Michigan St.,
+7,247,PHI,Keyonta Marshall\MarsKe20,DT,24,2005,0,0,0,0,0,1,,,,,,,,,,,,,,,Grand Valley St.,
+7,248,SFO,Patrick Estes\EstePa00,TE,22,2007,0,0,0,0,0,8,,,,,,,,,,,,,,,Virginia,College Stats
+7,249,SFO,Billy Bajema\BajeBi00,TE,22,2013,0,0,3,2,0,120,,,,,,,,,40,416,2,12,,,Oklahoma St.,College Stats
+7,250,STL,Ryan Fitzpatrick\FitzRy00,QB,22,2016,0,0,9,61,2,125,2287,3825,25542,164,131,435,1996,13,2,-3,0,6,,,Harvard,
+7,251,STL,Madison Hedgecock\HedgMa00,FB,24,2010,0,0,4,2,1,84,,,,,,3,2,0,37,233,2,20,,,North Carolina,College Stats
+7,252,PHI,David Bergeron,LB,,,0,0,0,,,,,,,,,,,,,,,,,,Stanford,College Stats
+7,253,TAM,J.R. Russell,WR,,,0,0,0,,,,,,,,,,,,,,,,,,Louisville,
+7,254,SEA,Doug Nienhuis\NienDo20,T,23,2005,0,0,0,0,,7,,,,,,,,,,,,,,,Oregon St.,
+7,255,NWE,Andy Stokes,TE,,,0,0,0,,,,,,,,,,,,,,,,,,William Penn,
